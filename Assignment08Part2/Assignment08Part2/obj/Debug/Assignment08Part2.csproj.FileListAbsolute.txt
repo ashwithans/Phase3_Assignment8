@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\bin\Debug\Assignment08Part2.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\bin\Debug\Assignment08Part2.exe
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\bin\Debug\Assignment08Part2.pdb
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\obj\Debug\Assignment08Part2.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\obj\Debug\Assignment08Part2.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\obj\Debug\Assignment08Part2.exe
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day8\Assignment08Part2\Assignment08Part2\obj\Debug\Assignment08Part2.pdb
